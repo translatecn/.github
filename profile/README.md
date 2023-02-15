@@ -1,1 +1,1 @@
-Learn about open source projects and add comments.
+Learn about open source projects.
